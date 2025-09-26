@@ -1,6 +1,6 @@
 # Proyecto: Steal a Brainrot!
 ## César Daniel Aguilar Kuri - A01712823
-Steal a Brainrot! es un juego de Roblox que consiste en coleccionar y robar diferentes personajes catalogados como "Brainrot", este juego tiene un sistema de rarezas (Común, Raro, Épico, Legendario, BrainrotGOD y Secreto) y costos en cuestión a los personajes que existen, por lo que es más valioso un Brainrot Secreto a un Brainrot de Oro. Usando los diferentes temas que hemos aprendido durante el semestre, este proyecto se designa a facilitar la busqueda y catalogo de los Brainrots que el usuario tiene en el juego, mejorando el ordenamiento en su base dependiendo si quiere ordenarlos por nombre, costo o rareza.
+Steal a Brainrot! es un juego de Roblox que consiste en coleccionar y robar diferentes personajes catalogados como "Brainrot", este juego tiene un sistema de rarezas (Common, Rare, Epic, Legendary, BrainrotGod y Secret) y costos en cuestión a los personajes que existen, por lo que es más valioso un Brainrot Secret a un Brainrot Common. Usando los diferentes temas que hemos aprendido durante el semestre, este proyecto se designa a facilitar la busqueda y catalogo de los Brainrots que el usuario tiene en el juego, mejorando el ordenamiento en su base dependiendo si quiere ordenarlos por nombre, costo o rareza.
 
 ## Descripción del avance 1
 En este avance se entrega un primer prototipo de consola que:
