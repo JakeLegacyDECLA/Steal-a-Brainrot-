@@ -1,3 +1,11 @@
+/*
+Nombre: César Daniel Aguilar Kuri
+Matricula: A01712823
+Nombre del Proyecto: Steal a Brainrot!
+Materia: Programación de estructuras de datos y algoritmos fundamentales
+Profesor: Eduardo Daniel Juárez Pineda
+*/
+
 #ifndef BUBBLESORT_H
 #define BUBBLESORT_H
 
@@ -60,4 +68,5 @@ inline void bubbleSortPorCosto(
         if(!huboSwap) break; // O(1)
     }
 }
+
 #endif
